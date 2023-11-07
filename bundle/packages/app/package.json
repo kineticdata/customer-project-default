@@ -20,7 +20,7 @@
     "@kineticdata/bundle-settings": "6.0.1",
     "@kineticdata/bundle-survey": "6.0.1",
     "@kineticdata/bundle-tech-bar": "6.0.1",
-    "@kineticdata/react": "6.0.1",
+    "@kineticdata/react": "6.0.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
