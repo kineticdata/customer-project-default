@@ -50,7 +50,7 @@
     "recompose": "^0.30.0",
     "redux": "^3.7.2",
     "redux-saga": "^0.16.0",
-    "semver": "^5.5.0",
+    "semver": "^7.5.2",
     "typeface-open-sans": "^0.0.54",
     "underscore": "^1.8.3"
   },
