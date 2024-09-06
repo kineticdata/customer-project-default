@@ -10,7 +10,7 @@
   "dependencies": {
     "@kineticdata/bundle-common": "6.0.2",
     "@kineticdata/bundle-components-default": "npm:@kineticdata/bundle-components@6.0.2",
-    "@kineticdata/react": "6.0.2",
+    "@kineticdata/react": "6.0.5",
     "classnames": "^2.2.5",
     "font-awesome": "^4.7.0",
     "immutable": "4.0.0-rc.9",
