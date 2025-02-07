@@ -1,7 +1,7 @@
 import { Record, List } from 'immutable';
 import moment from 'moment';
 import { LOCATION_CHANGE } from 'connected-react-router';
-import { matchPath } from 'react-router';
+import { matchPath } from 'react-router-dom';
 import { Utils } from '@kineticdata/bundle-common';
 import { parse } from 'query-string';
 const { noPayload, withPayload } = Utils;

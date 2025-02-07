@@ -2,7 +2,7 @@ import 'react-app-polyfill/ie11';
 import 'react-app-polyfill/stable';
 import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom';
-import { matchPath } from 'react-router';
+import { matchPath } from 'react-router-dom';
 import { Provider, connect } from 'react-redux';
 import { ConnectedRouter } from 'connected-react-router';
 import { store } from './redux/store';

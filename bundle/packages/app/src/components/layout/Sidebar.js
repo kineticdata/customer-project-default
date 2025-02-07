@@ -1,7 +1,6 @@
 import React, { useCallback } from 'react';
 import { connect } from 'react-redux';
-import { matchPath } from 'react-router';
-import { Link } from 'react-router-dom';
+import { Link, matchPath } from 'react-router-dom';
 import {
   UncontrolledDropdown,
   DropdownToggle,
