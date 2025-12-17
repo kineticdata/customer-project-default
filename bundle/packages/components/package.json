@@ -8,9 +8,9 @@
     "preversion": "yarn lint"
   },
   "dependencies": {
-    "@kineticdata/bundle-common": "6.1.0",
-    "@kineticdata/bundle-components-default": "npm:@kineticdata/bundle-components@6.1.0",
-    "@kineticdata/react": "6.1.0",
+    "@kineticdata/bundle-common": "6.1.6",
+    "@kineticdata/bundle-components-default": "npm:@kineticdata/bundle-components@6.1.6",
+    "@kineticdata/react": "6.1.6",
     "classnames": "^2.2.5",
     "font-awesome": "^4.7.0",
     "immutable": "4.0.0-rc.9",
